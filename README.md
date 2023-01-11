@@ -1,2 +1,2 @@
 # ticTacToe
-An AI that never loses a Tic Tac Toe
+An AI that never loses at Tic Tac Toe
